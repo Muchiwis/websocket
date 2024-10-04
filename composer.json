@@ -1,0 +1,17 @@
+{
+    "name": "jhord/websocket_test",
+    "autoload": {
+        "psr-4": {
+            "Jhord\\WebsocketTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muchiwis",
+            "email": "jhordcristian75@gmail.com"
+        }
+    ],
+    "require": {
+        "workerman/gateway-worker": "^3.1"
+    }
+}
